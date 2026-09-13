@@ -2,8 +2,8 @@ import React from 'react'
 import Video from './Video'
 
 const HomeHeroText = () => {
-  return (
-    <div className='h-screen w-screen font-[font1] text-center'>
+return (
+    <div className='font-[font1] text-center'>
         <div className='text-[9.5vw] uppercase leading-[9vw] flex items-center justify-center'>The spark for</div>
         <div className='w-full text-[9.5vw] uppercase leading-[9vw] flex items-center justify-center'>
             <div>all</div>
